@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pushpak+Tiwari;Web+Developer+%7C+AI+Learner+%7C+Content+Creator;Let's+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Prashant+Maurya;Choco+Developer+%7C+AI+Learner+%7C+Choco+Creator;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 
 
@@ -55,17 +55,17 @@
   </tr>
   <tr>
     <td><b>CHOCO</b></td>
-    <td>Convert Celsius, Fahrenheit, Kelvin</td>
+    <td>CHOCO</td>
     <td><a href="https://tempconverterbypushpak.netlify.app/" target="_blank">View Project</a></td>
   </tr>
   <tr>
     <td><b>CHOCO</b></td>
-    <td>Personal responsive portfolio</td>
+    <td>CHOCO</td>
     <td><a href="https://portfolioforpushpak.netlify.app/" target="_blank">View Project</a></td>
   </tr>
   <tr>
     <td><b>CHOCO</b></td>
-    <td>Collection of captured moments</td>
+    <td>CHOCO</td>
     <td><a href="#" target="_blank">Coming Soon</a></td>
   </tr>
 </table>
@@ -74,6 +74,6 @@
 
 ## 💬 Contact
 
-📧 Email: <a href="mailto:" target="_blank">21240052.pushpak@united.edu.in</a><br>
-📱 Whatsapp: <a href="https://wa.me/+" target="_blank">>Pushpak Tiwari</a><br>
-📁 Linktree: <a href="https://linktr.ee/" target="_blank">linktr.ee/pushpaktiwari</a>
+📧 Email: <a href="mailto:" target="_blank">CHOCO</a><br>
+📱 Whatsapp: <a href="https://wa.me/+" target="_blank">>CHOCO</a><br>
+📁 Linktree: <a href="https://linktr.ee/" target="_blank">CHOCO</a>
