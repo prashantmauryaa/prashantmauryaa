@@ -74,6 +74,6 @@
 
 ## 💬 Contact
 
-📧 Email: <a href="mailto:" target="_blank">CHOCO</a><br>
-📱 Whatsapp: <a href="https://wa.me/+" target="_blank">>CHOCO</a><br>
+📧 Email: <a href="mailto:mauryaprashant270@gmail.com" target="_blank">CHOCO</a><br>
+📱 Whatsapp: <a href="https://wa.me/+918528453410" target="_blank">>CHOCO</a><br>
 📁 Linktree: <a href="https://linktr.ee/" target="_blank">CHOCO</a>
