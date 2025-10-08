@@ -17,13 +17,13 @@
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com//" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
-<a href="https://wa.me/+" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://pinterest.com/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+<a href= "https://www.linkedin.com/in/prashant-maurya-1613a7329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href=" https://www.instagram.com/prashant_maurya63/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href=" https://github.com/prashantmauryaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:mauryaprashant270@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/bannerprash" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
+<a href="https://wa.me/+918528453410" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href=" https://in.pinterest.com/mauryaprashant270/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
 </p>
 
 ---
@@ -74,6 +74,6 @@
 
 ## 💬 Contact
 
-📧 Email: <a href="mailto:mauryaprashant270@gmail.com" target="_blank">CHOCO</a><br>
-📱 Whatsapp: <a href="https://wa.me/+918528453410" target="_blank">>CHOCO</a><br>
-📁 Linktree: <a href="https://linktr.ee/" target="_blank">CHOCO</a>
+📧 Email: <a href="mailto:mauryaprashant270@gmail.com" target="_blank">mauryaprashnat270@gmail.com</a><br>
+📱 Whatsapp: <a href="https://wa.me/+918528453410" target="_blank">>PrashantMaurya</a><br>
+📁 Linktree: <a href="https://linktr.ee/" target="_blank"></a>
