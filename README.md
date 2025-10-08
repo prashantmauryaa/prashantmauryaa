@@ -23,7 +23,7 @@
 <a href="mailto:mauryaprashant270@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/bannerprash" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
 <a href="https://wa.me/+918528453410" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href=" https://in.pinterest.com/mauryaprashant270/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+<a href="https://in.pinterest.com/mauryaprashant270/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
 </p>
 
 ---
