@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- CHOCO
+ Aspiring Webdeveloper and 
 
 
 ---
