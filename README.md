@@ -61,7 +61,7 @@
   <tr>
     <td><b>CHOCO</b></td>
     <td>CHOCO</td>
-    <td><a href="https://portfolioforpushpak.netlify.app/" target="_blank">View Project</a></td>
+    <td><a href="https://www.linkedin.com/in/prashant-maurya-1613a7329/" target="_blank">View Project</a></td>
   </tr>
   <tr>
     <td><b>CHOCO</b></td>
