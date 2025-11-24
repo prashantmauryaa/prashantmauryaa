@@ -8,8 +8,8 @@
 ---
 
 ## 👨‍💻 About Me
-
- Aspiring Webdeveloper and 
+Full-Stack Web Developer focused on building secure, scalable applications using the MERN stack. I enjoy creating solutions that improve real-world workflows while writing clean and maintainable code. And also continuously working on strengthening the technical skills that matter in modern development and staying updated with essential technologies in the industry.
+  
 
 
 ---
@@ -54,18 +54,18 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td><b>CHOCO</b></td>
-    <td>CHOCO</td>
-    <td><a href="https://tempconverterbypushpak.netlify.app/" target="_blank">View Project</a></td>
+    <td><b>Campus Alert </b></td>
+    <td>Mini Project of Summer Traning</td>
+    <td><a href="https://campus-alert.vercel.app/" target="_blank">View Project</a></td>
   </tr>
   <tr>
-    <td><b>CHOCO</b></td>
-    <td>CHOCO</td>
-    <td><a href="https://www.linkedin.com/in/prashant-maurya-1613a7329/" target="_blank">View Project</a></td>
+    <td><b>TBD</b></td>
+    <td>Will Update Further </td>
+    <td><a href="#" target="_blank">Coming Soon</a></td>
   </tr>
   <tr>
-    <td><b>CHOCO</b></td>
-    <td>CHOCO</td>
+    <td><b>Comming Soon</b></td>
+    <td>Wait</td>
     <td><a href="#" target="_blank">Coming Soon</a></td>
   </tr>
 </table>
