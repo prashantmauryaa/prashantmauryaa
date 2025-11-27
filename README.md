@@ -76,4 +76,4 @@ Full-Stack Web Developer focused on building secure, scalable applications using
 
 📧 Email: <a href="mailto:mauryaprashant270@gmail.com" target="_blank">mauryaprashnat270@gmail.com</a><br>
 📱 Whatsapp: <a href="https://wa.me/+918528453410" target="_blank">>PrashantMaurya</a><br>
-📁 Linktree: <a href="https://linktr.ee/" target="_blank"></a>
+📁 Linktree:  <a href="https://linktr.ee/Prashant.Maurya" target="_blank">Prashant.Maurya</a>
