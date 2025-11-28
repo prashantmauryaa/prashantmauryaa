@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Prashant+Maurya;Web+Developer+%7C+AI+Learner+%7C+;Let's+build+something+awesome+together!" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=header"/> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=700&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Prashant+Maurya!;Full-Stack+Web+Developer;AI+Learner+%7C+Problem+Solver;Let's+Build+Something+Awesome+Together!" /> </p>
+ 
+  
 
 
 
@@ -77,6 +77,9 @@ Full-Stack Web Developer focused on building secure, scalable applications using
 📧 Email:    <a href="mailto:mauryaprashant270@gmail.com" target="_blank">mauryaprashnat270@gmail.com</a><br>
 📱 Whatsapp: <a href="https://wa.me/+918528453410" target="_blank">Prashant.Maurya</a><br>
 📁 Linktree: <a href="https://linktr.ee/Prashant.Maurya" target="_blank">Prashant.Maurya</a>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
 
                                
                                
