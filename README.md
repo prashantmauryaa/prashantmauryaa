@@ -61,8 +61,8 @@ Full-Stack Web Developer focused on building secure, scalable applications using
   </tr>
   <tr>
     <td><b>HostelXWall </b></td>
-    <td> For    </td>
-    <td><a href="#" target="https://hostelxwall.netlify.app">View</a></td>
+    <td>For Entertainment</td>
+    <td><a href="https://hostelxwall.netlify.app/" target="_blank">View Project</a></td>
   </tr>
   <tr>
     <td><b>Comming Soon</b></td>
