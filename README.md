@@ -60,9 +60,9 @@ Full-Stack Web Developer focused on building secure, scalable applications using
     <td><a href="https://campus-alert.vercel.app/" target="_blank">View Project</a></td>
   </tr>
   <tr>
-    <td><b>TBD</b></td>
-    <td>Will Update Further </td>
-    <td><a href="#" target="_blank">Coming Soon</a></td>
+    <td><b>HostelXWall </b></td>
+    <td> For    </td>
+    <td><a href="#" target="_blank">https://hostelxwall.netlify.app</a></td>
   </tr>
   <tr>
     <td><b>Comming Soon</b></td>
