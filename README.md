@@ -83,7 +83,7 @@ Full-Stack Web Developer focused on building secure, scalable applications using
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
 
                                
-                               
+                                  
                                
                                
                                
