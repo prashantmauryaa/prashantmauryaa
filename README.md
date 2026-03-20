@@ -88,13 +88,7 @@ Full-Stack Web Developer focused on building secure, scalable applications using
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prashant-maurya-1613a7329/">LinkedIn</a> ·
-  <a href="https://twitter.com/bannerprash">X</a> ·
-  <a href="https://www.instagram.com/maurya_prashant63/">Instagram</a> ·
-  <a href="mailto:mauryaprashant270@gmail.com">Email</a> ·
-  <a href="https://linktr.ee/Prashant.Maurya">Linktree</a>
-</p>
+ 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
 
