@@ -80,6 +80,22 @@ Full-Stack Web Developer focused on building secure, scalable applications using
 📁 Linktree: <a href="https://linktr.ee/Prashant.Maurya" target="_blank">Prashant.Maurya</a>
 
 
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashantmauryaa&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for prashantmauryaa" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-maurya-1613a7329/">LinkedIn</a> ·
+  <a href="https://twitter.com/bannerprash">X</a> ·
+  <a href="https://www.instagram.com/maurya_prashant63/">Instagram</a> ·
+  <a href="mailto:mauryaprashant270@gmail.com">Email</a> ·
+  <a href="https://linktr.ee/Prashant.Maurya">Linktree</a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
 
                                
