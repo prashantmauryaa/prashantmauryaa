@@ -65,9 +65,9 @@ Full-Stack Web Developer focused on building secure, scalable applications using
     <td><a href="https://hostelxwall.netlify.app/" target="_blank">View Project</a></td>
   </tr>
   <tr>
-    <td><b>Comming Soon</b></td>
-    <td>Wait</td>
-    <td><a href="#" target="_blank">Coming Soon</a></td>
+    <td><b> AIDLYN</b></td>
+    <td>Vehicle Safety Project</td>
+    <td><a href="https://aidlyn01.vercel.app/" target="_blank">Coming Soon</a></td>
   </tr>
 </table>
 
