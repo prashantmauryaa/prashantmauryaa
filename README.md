@@ -67,7 +67,7 @@ Full-Stack Web Developer focused on building secure, scalable applications using
   <tr>
     <td><b> AIDLYN</b></td>
     <td>Vehicle Safety Project</td>
-    <td><a href="https://aidlyn01.vercel.app/" target="_blank">Coming Soon</a></td>
+    <td><a href="https://aidlyn01.vercel.app/" target="_blank">View Project</a></td>
   </tr>
 </table>
 
