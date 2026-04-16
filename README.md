@@ -44,6 +44,9 @@ Full-Stack Web Developer focused on building secure, scalable applications using
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
 
 
+<img align="right" height="250" width="350" src="https://i.ibb.co/GvjkGPd7/gif-for-github.gif" />
+
+
 ---------
 
 ## 📂 Projects
