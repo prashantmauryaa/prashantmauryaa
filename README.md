@@ -40,9 +40,7 @@ Full-Stack Web Developer focused on building secure, scalable applications using
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 </p>
  
-
-
-<img align="right" height="250" width="350" src="https://i.ibb.co/GvjkGPd7/gif-for-github.gif" />
+ 
 
 
 ---------
