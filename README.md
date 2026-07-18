@@ -70,6 +70,11 @@ Full-Stack Web Developer focused on building secure, scalable applications using
     <td>Vehicle Safety Project</td>
     <td><a href="https://aidlyn01.vercel.app/" target="_blank">View Project</a></td>
   </tr>
+ <tr>
+    <td><b> BiteSense</b></td>
+    <td>Tells you what to eat according to your diet</td>
+    <td><a href=" "_blank">View Project</a></td>
+  </tr>
 </table>
 
 ---
