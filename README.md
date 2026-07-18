@@ -29,6 +29,9 @@ Full-Stack Web Developer focused on building secure, scalable applications using
 
 ---
 
+
+<img align="right" height="250" width="350" src="https://i.ibb.co/GvjkGPd7/gif-for-github.gif" />
+
 ## 🛠 Tech Stack
 
  <p align="left">
