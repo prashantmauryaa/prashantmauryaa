@@ -72,7 +72,7 @@ Full-Stack Web Developer focused on building secure, scalable applications using
   </tr>
  <tr>
     <td><b> BiteSense</b></td>
-    <td>Tells you what to eat according to your diet</td>
+    <td>Tells you what to eat according to your Diet</td>
     <td><a href=" "_blank">View Project</a></td>
   </tr>
 </table>
